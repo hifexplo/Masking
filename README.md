@@ -1,6 +1,5 @@
 # Masking HSI ROIs With Pretrained Models
-![alt text](https://github.com/Elias-Arbash/Masking/blob/main/assets/Plastics.pdf)
-
+!([http://url/to/img.png](https://github.com/Elias-Arbash/Masking/blob/main/assets/Drill%20Core.png))
 [HZDR](https://hzdr.de) - [Hif_Exploration](https://www.iexplo.space/)
 
 
