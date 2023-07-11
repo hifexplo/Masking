@@ -8,7 +8,7 @@ The proposed processing pipeline encompasses two fundamental parts: regions of i
 
 This work builds upon [Segment Anything](https://github.com/facebookresearch/segment-anything) and [Grounding Dino](https://github.com/facebookresearch/segment-anything)
 
-### ``**Requirements**``
+#### ``**Requirements**``
 
 Clone and set up the Segment-Anything and Grounding Dino repositories.
 
@@ -16,7 +16,7 @@ Please check the dependency requirements in the two repositories.
 
 The implementation is tested under python 3.8, as well as pytorch 1.12 and torchvision 0.13. We recommend an equivalent or higher pytorch version.
 
-### ``**Input Data**``
+#### ``**Input Data**``
 
 For data privacy, the hyperspectral images used in the paper are not fully provided. Only 3 channel representations and their ground truths can be found in the images folder.
 
