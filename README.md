@@ -1,7 +1,7 @@
 # Masking HSI ROIs With Pretrained Models
 [HZDR](https://hzdr.de) - [Hif_Exploration](https://www.iexplo.space/)
 
-### **Overview**
+### **``Overview``**
 
 The presence of undesired background areas associated with potential noise and unknown spectral characteristics degrades the performance of hyperspectral data processing. Masking out unwanted regions is key to addressing this issue. Processing only regions of interest yields notable improvements in terms of computational costs, required memory, and overall performance.
 
