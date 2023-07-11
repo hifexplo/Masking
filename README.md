@@ -8,7 +8,7 @@ The proposed processing pipeline encompasses two fundamental parts: regions of i
 
 This work builds upon [Segment Anything](https://github.com/facebookresearch/segment-anything) and [Grounding Dino](https://github.com/facebookresearch/segment-anything)
 
-## ``**Requirements**``
+### ``**Requirements**``
 
 Clone and set up the Segment-Anything and Grounding Dino repositories.
 
