@@ -1,4 +1,4 @@
-# Masking HSI ROIs With Pretrained Models
+# Masking HSI With Pretrained Models
 [HZDR](https://hzdr.de) - [Hif_Exploration](https://www.iexplo.space/)
 
 ### **``Overview``**
