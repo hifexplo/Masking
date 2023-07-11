@@ -2,6 +2,7 @@
 [HZDR](https://hzdr.de) - [Hif_Exploration](https://www.iexplo.space/)
 
 This work builds upon [Segment Anything](https://github.com/facebookresearch/segment-anything) and [Grounding Dino](https://github.com/facebookresearch/segment-anything)
+
 Please, install the two projects and the needed requirement for this project will be fulfilled.
 
 ![http://url/to/img.png](https://github.com/Elias-Arbash/Masking/blob/main/assets/Plastics.png)
